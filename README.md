@@ -1,8 +1,8 @@
 # Samrobertson_t1a2
 
 [Github Repository](https://github.com/samrobertson-creator/Samrobertson_t1a2)
-[Website] (<https://sam-robertson-542-portfolio.netlify.app>)
-[SlideDeck](https://youtu.be/9AIBkkHTUaA)
+[Website] (<https://samrobertsonportfolio.netlify.app/)
+
 
 ## Purpose
 
