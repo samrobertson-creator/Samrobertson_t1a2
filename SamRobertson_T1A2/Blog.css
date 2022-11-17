@@ -1,0 +1,54 @@
+main {
+    text-align: center;
+    color: rgba(51, 25, 184, 0.571);
+}
+
+main h2, p {
+    color: black;
+}
+
+h1 {
+    padding: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: clamp(2rem, 6.87vw + 0.6rem, 3.5rem);
+    margin: 0.2em 0;
+    padding: 0 0.5em;
+}
+
+p {
+    margin: 1rem;
+}
+
+main {
+    justify-content: center;
+    align-items: center;
+}
+
+main img {
+    height: auto;
+    width: 80%;
+}
+
+main h2 { 
+    color: black;
+    font-size: 30px;
+    padding: 2rem;
+}
+
+div {
+    font-size: 30px;
+    padding: 1rem;
+    color: black;
+}
+
+main a {
+    font-size: clamp(1rem, 3.87vw + 0.6rem, 1.5rem);
+}
+
+
+
+
+
+
+
