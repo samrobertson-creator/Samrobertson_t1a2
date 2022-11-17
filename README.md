@@ -8,6 +8,7 @@ The purpose of this website is to show my newly acquired skills as a web develop
 
 ## Layout
 The layout of my portfolio, was designed to be minimanlist, however easy to navigate.
+
 - Nav Bar: Provides navigation links to other pages on my website, as well as my logo being used as an anchor to take you back to the home page. Nav Bar is consistent throughout every page.
 - Footer: Contains links to my LinkedIn profile as well as my GitHub account. Links can be accessed by clicking on the respective images
 - Homepage: Contains a photo of myself so viewers can put a face to the name. Provides a link to my "About me" page, as well as my contact details
@@ -21,13 +22,13 @@ Each page is linked to the nav bar at the top. 5 unique blogs are accessible fro
 ## Screenshots
 
 ### Homepage
-![Homepage](Images/homepage.png)
+![Homepage](Images/Homepage.png)
 
 ### About Me
 ![About Me](Images/Aboutme.png)
 
 ### My Blogs
-![My Blogs](Images/MyBlog.png)
+![My Blogs](Images/MyBlogs.png)
 
 ### Blog Example
 ![Blog Example](Images/Blog%20Example.png)
@@ -36,7 +37,9 @@ Each page is linked to the nav bar at the top. 5 unique blogs are accessible fro
 ![Resume Link](Images/Resume%20Link.png)
 
 ## Target Audience
+
 The target audience for this website is for potential employers.
 
-## Tech 
+## Tech
+
 Made entirely from HTML and CSS and hosted on Netlify.
