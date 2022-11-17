@@ -1,0 +1,63 @@
+#Beach {
+    background-image: linear-gradient(45deg,#2eb4b4, whitesmoke);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    font-family: sans-serif;
+    font-weight: 900;
+    box-shadow: 0px -2px 5px 0px #707070;
+    min-height: 150px;
+    border: black
+}
+
+
+#Beach h1 {
+    font-family: sans-serif;
+}
+
+#Beach img {
+    width: 40%;
+    height: auto;
+    border-radius: 10%;
+}
+
+main {
+    display: flex;
+    padding: 10rem;
+    border: 12rem;
+}
+
+main p {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+main h2 {
+    color: #2eb4b4
+}
+
+main article img {
+    display: none;
+}
+
+main article a {
+    display: flex;
+    font-family: sans-serif;
+    color: black;
+    padding-left: 0.5rem;
+}
+
+h3 {
+    padding-top: 2rem;
+}
+
+section h1 {
+    padding-top: 2rem;
+    color: white;
+    font-size: 50px;
+}
+
+section h2 {
+    color: white;
+}
