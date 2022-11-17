@@ -2,6 +2,7 @@
 
 [Github Repository](https://github.com/samrobertson-creator/Samrobertson_t1a2)
 [Website] (<https://samrobertsonportfolio.netlify.app/)
+[SlideDeck Video](https://youtu.be/VpbsDgng3Cs)
 
 
 ## Purpose
