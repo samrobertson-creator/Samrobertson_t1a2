@@ -1,0 +1,44 @@
+main {
+    text-align: center;
+    color: black;
+}
+
+main h2, p {
+    color: black;
+}
+
+h1 {
+    padding: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0.2em 0;
+    padding: 0 0.5em;
+    color: #2eb4b4;
+}
+
+p {
+    margin: 1rem;
+    font-weight: 400;
+}
+
+main {
+    justify-content: center;
+    align-items: center;
+}
+
+main img {
+    max-height: 50vh;
+    width: auto;
+
+}
+
+main h2 { 
+    color: #2eb4b4;
+    font-size: 30px;
+    padding: 2rem;
+}
+
+
+
+
+

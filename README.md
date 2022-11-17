@@ -20,7 +20,7 @@ The layout of my portfolio, was designed to be minimanlist, however easy to navi
 
 ## Site Map
 
-![Images](/Images/Site%20Map.png)
+![Site Map](/Images/Site%20Map.png)
 Each page is linked to the nav bar at the top. 5 unique blogs are accessible from the blog page.
 
 ## Screenshots
