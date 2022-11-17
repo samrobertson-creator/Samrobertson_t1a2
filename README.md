@@ -1,12 +1,15 @@
 # Samrobertson_t1a2
+
 [Github Repository](https://github.com/samrobertson-creator/Samrobertson_t1a2)
-[Website] (https://sam-robertson-542-portfolio.netlify.app)
+[Website] (<https://sam-robertson-542-portfolio.netlify.app>)
 [SlideDeck](https://youtu.be/9AIBkkHTUaA)
 
-## Purpose 
+## Purpose
+
 The purpose of this website is to show my newly acquired skills as a web developer
 
 ## Layout
+
 The layout of my portfolio, was designed to be minimanlist, however easy to navigate.
 
 - Nav Bar: Provides navigation links to other pages on my website, as well as my logo being used as an anchor to take you back to the home page. Nav Bar is consistent throughout every page.
@@ -16,24 +19,30 @@ The layout of my portfolio, was designed to be minimanlist, however easy to navi
 - Blogs: Provides links to all of my blog posts. Each individual blog has an anchor to take you back to main blog page. They also have an anchor at the bottom to take you to the top of the blog, in case you're wanting to read over it again.
 
 ## Site Map
+
 ![Site Map](Images/Site%20Map.png)
 Each page is linked to the nav bar at the top. 5 unique blogs are accessible from the blog page.
 
 ## Screenshots
 
 ### Homepage
+
 ![Homepage](Images/Homepage.png)
 
 ### About Me
+
 ![About Me](Images/Aboutme.png)
 
 ### My Blogs
+
 ![My Blogs](Images/MyBlogs.png)
 
 ### Blog Example
+
 ![Blog Example](Images/Blog%20Example.png)
 
 ### Resume Link
+
 ![Resume Link](Images/Resume%20Link.png)
 
 ## Target Audience
